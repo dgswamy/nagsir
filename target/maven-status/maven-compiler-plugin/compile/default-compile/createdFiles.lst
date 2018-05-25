@@ -1,0 +1,6 @@
+auth\service\SignUpService.class
+platform\model\ResponseTo.class
+platform\PlatformConstants.class
+dbutil\DbConnectionPool.class
+platform\PlatformTools.class
+dbutil\DbConnection.class
